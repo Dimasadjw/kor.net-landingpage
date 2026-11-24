@@ -9,7 +9,7 @@ git clone https://github.com/Dimasadjw/kor.net-landingpage.git
 2. Go into project
 
 ```bash
-cd shadcn-landing-page
+cd kor.net-landingpage
 ```
 
 3. Install dependencies
