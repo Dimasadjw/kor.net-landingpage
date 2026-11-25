@@ -14,9 +14,9 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "Apakah benar koneksi FIBERNET 100% tanpa batasan FUP (True Unlimited)?",
+    question: "Apakah benar koneksi KOR.NET 100% tanpa batasan FUP (True Unlimited)?",
     answer:
-      "Benar sekali! FIBERNET menerapkan kebijakan True Unlimited tanpa Fair Usage Policy (FUP). Anda dapat menggunakan internet sepuasnya tanpa khawatir kecepatan diturunkan di tengah bulan meskipun telah menghabiskan ratusan hingga ribuan gigabyte.",
+      "Benar sekali! KOR.NET menerapkan kebijakan True Unlimited tanpa Fair Usage Policy (FUP). Anda dapat menggunakan internet sepuasnya tanpa khawatir kecepatan diturunkan di tengah bulan meskipun telah menghabiskan ratusan hingga ribuan gigabyte.",
     value: "item-1",
   },
   {
@@ -99,7 +99,7 @@ export const FAQ = () => {
           Ada pertanyaan lain seputar jangkauan alamat Anda?{" "}
           <a
             rel="noreferrer noopener"
-            href="https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20mau%20tanya%20seputar%20pemasangan%20wifi"
+            href="https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20mau%20tanya%20seputar%20pemasangan%20wifi"
             target="_blank"
             className="text-primary font-bold hover:underline inline-flex items-center gap-1"
           >

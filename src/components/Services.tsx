@@ -73,7 +73,7 @@ export const Services = () => {
               <img
                 src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80"
                 className="w-full h-[320px] sm:h-[400px] object-cover group-hover:scale-105 transition-transform duration-500"
-                alt="Router Wi-Fi Gigabit Dual-Band Fibernet"
+                alt="Router Wi-Fi Gigabit Dual-Band KOR.NET"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent flex flex-col justify-end p-6">
                 <div className="inline-flex items-center gap-1.5 bg-blue-500/20 text-cyan-300 border border-cyan-500/30 px-2.5 py-1 rounded-md text-xs font-semibold w-fit mb-2">

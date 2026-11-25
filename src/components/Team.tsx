@@ -54,7 +54,7 @@ export const Team = () => {
         <h2 className="text-3xl md:text-4xl font-black">
           Teknisi & Engineer{" "}
           <span className="bg-gradient-to-r from-blue-600 via-cyan-500 to-indigo-600 text-transparent bg-clip-text">
-            FIBERNET
+            KOR.NET
           </span>
         </h2>
         <p className="text-base md:text-lg text-muted-foreground mt-3">

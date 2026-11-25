@@ -89,7 +89,7 @@ export const Navbar = () => {
                 <SheetHeader>
                   <SheetTitle className="font-bold text-xl flex items-center gap-2">
                     <Wifi className="w-5 h-5 text-primary" />
-                    FIBERNET ID
+                    KOR.NET ID
                   </SheetTitle>
                 </SheetHeader>
                 <nav className="flex flex-col justify-center items-center gap-2 mt-4">
@@ -106,7 +106,7 @@ export const Navbar = () => {
                   ))}
                   <a
                     rel="noreferrer noopener"
-                    href="https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20mau%20pasang%20wifi%20di%20rumah"
+                    href="https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20mau%20pasang%20wifi%20di%20rumah"
                     target="_blank"
                     className={`w-full border ${buttonVariants({
                       variant: "default",
@@ -139,7 +139,7 @@ export const Navbar = () => {
           <div className="hidden md:flex gap-2 items-center">
             <a
               rel="noreferrer noopener"
-              href="https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20mau%20cek%20coverage%20area%20dan%20pasang%20wifi"
+              href="https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20mau%20cek%20coverage%20area%20dan%20pasang%20wifi"
               target="_blank"
               className={`font-semibold border shadow-sm ${buttonVariants({ variant: "default" })}`}
             >

@@ -111,7 +111,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://instagram.com"
+              href="https://www.instagram.com/koneksioptimalrakyat"
               target="_blank"
               className="text-sm text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-2"
             >
@@ -135,7 +135,7 @@ export const Footer = () => {
 
       <section className="container pb-12 pt-4 text-center border-t border-muted">
         <p className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} <strong>FIBERNET ID</strong>. Hak Cipta Dilindungi. Layanan Internet Fiber Optic Unlimited Indonesia.
+          &copy; {new Date().getFullYear()} <strong>KOR.NET ID</strong>. Hak Cipta Dilindungi. Layanan Internet Fiber Optic Unlimited Indonesia.
         </p>
       </section>
     </footer>

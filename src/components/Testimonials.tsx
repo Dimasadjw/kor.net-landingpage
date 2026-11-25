@@ -23,7 +23,7 @@ const testimonials: TestimonialProps[] = [
     role: "Software Engineer WFH",
     location: "Jakarta Selatan",
     comment:
-      "Sejak pasang paket 50 Mbps dari Fibernet, video call daily standup dan upload code repository super lancar. Upload simetris 1:1 beneran terasa bedanya dibanding provider lama.",
+      "Sejak pasang paket 50 Mbps dari KOR.NET, video call daily standup dan upload code repository super lancar. Upload simetris 1:1 beneran terasa bedanya dibanding provider lama.",
   },
   {
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
@@ -55,7 +55,7 @@ const testimonials: TestimonialProps[] = [
     role: "Owner Kopi Ruang Temu",
     location: "Yogyakarta",
     comment:
-      "Cafe kami makin ramai pengunjung nugas berkat WiFi Fibernet. Puluhan laptop nyambung bersamaan router dual-band nya tetap adem dan lancar.",
+      "Cafe kami makin ramai pengunjung nugas berkat WiFi KOR.NET. Puluhan laptop nyambung bersamaan router dual-band nya tetap adem dan lancar.",
   },
   {
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",

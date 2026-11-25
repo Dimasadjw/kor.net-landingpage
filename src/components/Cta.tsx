@@ -28,7 +28,7 @@ export const Cta = () => {
         <div className="flex flex-col sm:flex-row gap-4 lg:col-start-2 w-full lg:w-auto justify-center lg:justify-end">
           <a
             rel="noreferrer noopener"
-            href="https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20mau%20pasang%20wifi%20baru%20di%20rumah"
+            href="https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20mau%20pasang%20wifi%20baru%20di%20rumah"
             target="_blank"
             className="w-full sm:w-auto"
           >

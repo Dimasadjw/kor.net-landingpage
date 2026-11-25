@@ -97,7 +97,7 @@ export const HeroCards = () => {
 
         <CardFooter className="pt-0">
           <a
-            href="https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20mau%20pasang%20Paket%20Family%20Pro%2050%20Mbps"
+            href="https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20mau%20pasang%20Paket%20Family%20Pro%2050%20Mbps"
             target="_blank"
             className="w-full"
           >

@@ -14,7 +14,7 @@ export const About = () => {
               <div className="relative overflow-hidden rounded-xl border bg-card shadow-xl">
                 <img
                   src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&auto=format&fit=crop&q=80"
-                  alt="Infrastruktur Fiber Optic Fibernet"
+                  alt="Infrastruktur Fiber Optic KOR.NET"
                   className="w-full h-[280px] sm:h-[340px] object-cover group-hover:scale-105 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-4">
@@ -41,7 +41,7 @@ export const About = () => {
                 </span>
               </h2>
               <p className="text-base md:text-lg text-muted-foreground mt-4 leading-relaxed">
-                <strong>FIBERNET</strong> adalah penyedia jasa pemasangan jaringan internet dan WiFi berbasis 100% Fiber to the Home (FTTH). Kami berkomitmen menghadirkan koneksi berkecepatan tinggi tanpa hambatan kuota (True Unlimited) untuk rumah, kos, kantor, hingga cafe & UMKM.
+                <strong>KOR.NET</strong> adalah penyedia jasa pemasangan jaringan internet dan WiFi berbasis 100% Fiber to the Home (FTTH). Kami berkomitmen menghadirkan koneksi berkecepatan tinggi tanpa hambatan kuota (True Unlimited) untuk rumah, kos, kantor, hingga cafe & UMKM.
               </p>
               <p className="text-base md:text-lg text-muted-foreground mt-3 leading-relaxed">
                 Dengan jaringan kabel optik modern, koneksi internet Anda tetap stabil meskipun cuaca hujan lebat atau angin kencang, dengan latensi ultra rendah untuk kenikmatan gaming dan video conference tanpa jeda.
