@@ -159,7 +159,7 @@ export const Pricing = () => {
 
             <CardContent>
               <a
-                href={`https://wa.me/628230038392?text=Halo%20Fibernet,%20saya%20tertarik%20dengan%20${encodeURIComponent(pricing.title)}%20(${pricing.speed})`}
+                href={`https://wa.me/628230038392?text=Halo%20KOR.NET,%20saya%20tertarik%20dengan%20${encodeURIComponent(pricing.title)}%20(${pricing.speed})`}
                 target="_blank"
                 className="w-full"
               >
